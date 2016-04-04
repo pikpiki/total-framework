@@ -459,4 +459,36 @@ h6 {
 .t-btn-success:hover {
   background-color: #0c0;
 }
-
+.t-btn,
+.t-btn-success,
+.t-btn-error,
+.t-btn-warning {
+  padding: 0.25em;
+  background: #007fff;
+  margin: 0 45em;
+  transition: 0.25s;
+}
+.t-btn:hover,
+.t-btn-success:hover,
+.t-btn-error:hover,
+.t-btn-warning:hover {
+  background-color: #00b2ff;
+}
+.t-btn-success {
+  background-color: #00a600;
+}
+.t-btn-success:hover {
+  background-color: #0c0;
+}
+.t-btn-error {
+  background-color: #ffff1a;
+}
+.t-btn-error:hover {
+  background-color: #ffff80;
+}
+.t-btn-warning {
+  background-color: #ff1a1a;
+}
+.t-btn-warning:hover {
+  background-color: #f33;
+}
