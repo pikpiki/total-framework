@@ -1,0 +1,68 @@
+/*Background Colors*/
+.t-red {
+  background-color: #f00;
+}
+.t-lime {
+  background-color: #0f0;
+}
+.t-blue {
+  background-color: #00f;
+}
+.t-yellow {
+  background-color: #ff0;
+}
+.t-magenta {
+  background-color: #f0f;
+}
+.t-cyan {
+  background-color: #0ff;
+}
+.t-purple {
+  background-color: #80d;
+}
+.t-green {
+  background-color: #3a3;
+}
+.t-orange {
+  background-color: #f70;
+}
+.t-gold {
+  background-color: #fc0;
+}
+.t-crimson {
+  background-color: #b04;
+}
+/*Text*/
+.t-text-red {
+  color: #f00;
+}
+.t-text-lime {
+  color: #0f0;
+}
+.t-text-blue {
+  color: #00f;
+}
+.t-text-yellow {
+  color: #ff0;
+}
+.t-text-magenta {
+  color: #f0f;
+}
+.t-text-cyan {
+  color: #0ff;
+}
+.t-text-purple {
+  color: #80d;
+}
+.t-text-green {
+  color: #3a3;
+}
+.t-text-orange {
+  color: #f70;
+}
+.t-text-gold {
+  color: #fc0;
+}
+.t-text-crimson {
+  color: #b04;
+}
