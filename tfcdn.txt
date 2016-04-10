@@ -1,2 +1,7 @@
 https://cdn.rawgit.com/pikpiki/total-framework/master/tf-grid.css
 https://cdn.rawgit.com/pikpiki/total-framework/master/tf-colors.css
+https://cdn.rawgit.com/pikpiki/total-framework/master/tf-typography.css
+https://cdn.rawgit.com/pikpiki/total-framework/master/tf-fa.css
+https://cdn.rawgit.com/pikpiki/total-framework/master/tf-misc.css
+https://cdn.rawgit.com/pikpiki/total-framework/master/tf-helpers.css
+https://cdn.rawgit.com/pikpiki/total-framework/master/tf-buttons.css
