@@ -1,0 +1,12 @@
+.t-btn {
+  display: inline-block;
+  padding: 0.25em 0.5em;
+  background-color: #00b2ff;
+  transition: 0.5s;
+}
+.t-btn:hover {
+  background-color: #007fff;
+}
+.t-btn-floating {
+  box-shadow: 0.1em 0.1em 0.1em #808080;
+}
