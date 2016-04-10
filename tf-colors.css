@@ -1,68 +1,211 @@
+[class*="t-"] {
+  display: inline-block;
+}
+/*Variables(Stylus Only)*/
 /*Background Colors*/
 .t-red {
-  background-color: #f00;
+  background-color: #f00 !important;
 }
 .t-lime {
-  background-color: #0f0;
+  background-color: #0f0 !important;
 }
 .t-blue {
-  background-color: #00f;
+  background-color: #00f !important;
 }
 .t-yellow {
-  background-color: #ff0;
+  background-color: #ff0 !important;
+}
+.t-black {
+  background-color: #000;
+}
+.t-white {
+  background-color: #fff;
 }
 .t-magenta {
-  background-color: #f0f;
+  background-color: #f0f !important;
 }
 .t-cyan {
-  background-color: #0ff;
+  background-color: #0ff !important;
 }
 .t-purple {
-  background-color: #80d;
+  background-color: #80d !important;
 }
 .t-green {
-  background-color: #3a3;
+  background-color: #3a3 !important;
 }
 .t-orange {
-  background-color: #f70;
+  background-color: #f70 !important;
 }
 .t-gold {
-  background-color: #fc0;
+  background-color: #fc0 !important;
 }
 .t-crimson {
-  background-color: #b04;
+  background-color: #b04 !important;
+}
+.t-lightblue {
+  background-color: #33f !important;
+}
+.t-lightgreen {
+  background-color: #4dca4d !important;
+}
+.t-lightred {
+  background-color: #f33 !important;
 }
 /*Text*/
 .t-text-red {
-  color: #f00;
+  color: #f00 !important;
 }
 .t-text-lime {
-  color: #0f0;
+  color: #0f0 !important;
 }
 .t-text-blue {
-  color: #00f;
+  color: #00f !important;
 }
 .t-text-yellow {
-  color: #ff0;
+  color: #ff0 !important;
 }
 .t-text-magenta {
-  color: #f0f;
+  color: #f0f !important;
 }
 .t-text-cyan {
-  color: #0ff;
+  color: #0ff !important;
+}
+.t-text-black {
+  color: #000;
+}
+.t-text-white {
+  color: #fff;
 }
 .t-text-purple {
-  color: #80d;
+  color: #80d !important;
 }
 .t-text-green {
-  color: #3a3;
+  color: #3a3 !important;
 }
 .t-text-orange {
-  color: #f70;
+  color: #f70 !important;
 }
 .t-text-gold {
-  color: #fc0;
+  color: #fc0 !important;
 }
 .t-text-crimson {
-  color: #b04;
+  color: #b04 !important;
 }
+.t-text-crimson {
+  color: #b04 !important;
+}
+.t-text-crimson {
+  color: #b04 !important;
+}
+.t-text-crimson {
+  color: #b04 !important;
+}
+.t-text-lightblue {
+  background-color: #33f !important;
+}
+.t-text-lightgreen {
+  background-color: #4dca4d !important;
+}
+.t-text-lightred {
+  background-color: #f33 !important;
+}
+/*Hover*/
+/*Background Colors*/
+.t-red-hover:hover {
+  background-color: #f00 !important;
+}
+.t-lime-hover:hover {
+  background-color: #0f0 !important;
+}
+.t-blue-hover:hover {
+  background-color: #00f !important;
+}
+.t-yellow-hover:hover {
+  background-color: #ff0 !important;
+}
+.t-black-hover:hover {
+  background-color: #000;
+}
+.t-white-hover:hover {
+  background-color: #fff;
+}
+.t-magenta-hover:hover {
+  background-color: #f0f !important;
+}
+.t-cyan-hover:hover {
+  background-color: #0ff !important;
+}
+.t-purple-hover:hover {
+  background-color: #80d !important;
+}
+.t-green-hover:hover {
+  background-color: #3a3 !important;
+}
+.t-orange-hover:hover {
+  background-color: #f70 !important;
+}
+.t-gold-hover:hover {
+  background-color: #fc0 !important;
+}
+.t-crimson-hover:hover {
+  background-color: #b04 !important;
+}
+.t-lightblue-hover:hover {
+  background-color: #33f !important;
+}
+.t-lightgreen-hover:hover {
+  background-color: #4dca4d !important;
+}
+.t-lightred-hover:hover {
+  background-color: #f33 !important;
+}
+/*Text*/
+.t-text-red-hover:hover {
+  color: #f00 !important;
+}
+.t-text-lime-hover:hover {
+  color: #3a3 !important;
+}
+.t-text-blue-hover:hover {
+  color: #00f !important;
+}
+.t-text-yellow-hover:hover {
+  color: #ff0 !important;
+}
+.t-text-magenta-hover:hover {
+  color: #f0f !important;
+}
+.t-text-cyan-hover:hover {
+  color: #0ff !important;
+}
+.t-text-black-hover:hover {
+  color: #000;
+}
+.t-text-white-hover:hover {
+  color: #fff;
+}
+.t-text-purple-hover:hover {
+  color: #80d !important;
+}
+.t-text-green-hover:hover {
+  color: $darkgreen !important;
+}
+.t-text-orange-hover:hover {
+  color: #f70 !important;
+}
+.t-text-gold-hover:hover {
+  color: #fc0 !important;
+}
+.t-text-crimson-hover:hover {
+  color: #b04 !important;
+}
+.t-text-lightblue-hover:hover {
+  background-color: #33f !important;
+}
+.t-text-lightgreen-hover:hover {
+  background-color: #4dca4d !important;
+}
+.t-text-lightred-hover:hover {
+  background-color: #f33 !important;
+}
+
