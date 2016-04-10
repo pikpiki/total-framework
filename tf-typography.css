@@ -1,0 +1,55 @@
+@import url("https://fonts.googleapis.com/css?family=Roboto:400,700,700italic,400italic,300,300italic");
+body {
+  font-family: Roboto, sans-serif;
+}
+h1 {
+  font-size: 2em;
+}
+h2 {
+  font-size: 1.75em;
+}
+h3 {
+  font-size: 1.5em;
+}
+h4 {
+  font-size: 1.375em;
+}
+h5 {
+  font-size: 1.25em;
+}
+h6 {
+  font-size: 1.125em;
+}
+code {
+  color: #ff5b60;
+  background-color: #d3d3d3;
+}
+kbd {
+  background-color: #333;
+  border-radius: 0.25em;
+  color: #fff;
+}
+.tiny {
+  font-size: 0.5em;
+}
+.small {
+  font-size: 0.75em;
+}
+.normal {
+  font-size: 1em;
+}
+.large {
+  font-size: 1.25em;
+}
+.huge {
+  font-size: 1.5em;
+}
+.t-bold {
+  font-weight: 700;
+}
+.t-light {
+  font-weight: 300;
+}
+.t-italic {
+  font-style: italic;
+}
