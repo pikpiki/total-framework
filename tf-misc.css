@@ -1,0 +1,15 @@
+.t-inblock {
+  display: inline-block !important;
+}
+.t-block {
+  display: block !important;
+}
+.t-inline {
+  display: inline !important;
+}
+.t-card {
+  box-shadow: 0.1em 0.1em 0.1em #d3d3d3;
+}
+.t-card-2 {
+  box-shadow: 0.2em 0.2em 0.2em #d3d3d3;
+}
